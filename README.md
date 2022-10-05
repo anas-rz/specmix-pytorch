@@ -4,10 +4,10 @@
 
 Before: 
 
-![Original Spectrogram](original_specmix_tensorflow.png "Original Spectrogram Without SpecMix")
+![Original Spectrogram](Original.png "Original Spectrogram Without SpecMix")
 
 After: 
 
-![SpecMixed](specmixed_tensorflow.png "Time-Frequency Mixed Spectrogram")
+![SpecMixed](specmixed.png "Time-Frequency Mixed Spectrogram")
 
 Especially thankful to the author of paper [Gwantae Kim](https://sites.google.com/korea.ac.kr/gwantae-kim/) for his feedback and wonderful insight.
